@@ -1,7 +1,7 @@
 # Fictiopedia
 
-Fictiopedia creates 18 million new words by combining meaningful parts of existing English words and displays the 
-definition of new words.
+Fictiopedia creates approximately 18 million new words by combining meaningful parts of existing English words and displays 
+the definition of new words.
 
 ![Screenshot](FictiopediaScreen.png)
 ![Screenshot](Mitgeuward.png)
